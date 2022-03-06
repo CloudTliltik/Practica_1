@@ -1,0 +1,2 @@
+Agente1 localhost comunidadASR
+Agente8 192.168.100.15 comunidadASR
